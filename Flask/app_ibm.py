@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug  8 18:01:19 2022
-
-@author: susmitha
-"""
 
 from flask import Flask, render_template, request # Flask is a application
 # used to run/serve our application
